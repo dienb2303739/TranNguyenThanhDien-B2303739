@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌿✨ TERRARIUM MANAGEMENT SYSTEM ✨🌿  
+# 🌿✨ HỆ THỐNG QUẢN LÝ TERRARIUM  ✨🌿  
 ### _Hệ thống quản lý & chăm sóc cây Terrarium_
 
 <img src="https://img.shields.io/badge/Project-Group_Assignment-green?style=for-the-badge"/>

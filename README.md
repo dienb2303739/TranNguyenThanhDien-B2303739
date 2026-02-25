@@ -38,5 +38,3 @@ Hệ thống hỗ trợ:
 👤 Quản lý người dùng  
 
 ---
-
-## 🧩 SƠ ĐỒ HỆ THỐNG
